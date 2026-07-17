@@ -1,0 +1,40 @@
+name: Content task
+description: Add or update content for cohorts, outputs, partners, or gallery.
+title: "[Content] "
+labels: ["content", "good first issue"]
+body:
+  - type: dropdown
+    id: section
+    attributes:
+      label: Site section
+      options:
+        - Home
+        - About
+        - Cohorts
+        - Outputs
+        - Gallery
+        - Partners
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: Exactly what content should be added/updated?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source materials
+      description: Links, docs, slides, or media files.
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of done
+      placeholder: |
+        - [ ] Content added
+        - [ ] Alt text included
+        - [ ] Links validated
+    validations:
+      required: true

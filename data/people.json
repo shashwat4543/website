@@ -1,0 +1,17 @@
+{
+  "contributors": [
+    {
+      "name": "Contributor Name Placeholder",
+      "role": "Cohort Participant",
+      "cohort": "Year 4",
+      "bio": "Add short bio and project interests."
+    }
+  ],
+  "mentors": [
+    {
+      "name": "Mentor Name Placeholder",
+      "role": "Mentor",
+      "bio": "Add short mentor bio and area of support."
+    }
+  ]
+}

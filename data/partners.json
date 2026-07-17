@@ -1,0 +1,23 @@
+{
+  "partners": [
+    {
+      "name": "Partner School Placeholder",
+      "type": "School",
+      "summary": "Add school role in program and contributor involvement.",
+      "url": "#"
+    },
+    {
+      "name": "Industry Mentor Placeholder",
+      "type": "Mentor Organization",
+      "summary": "Add mentorship contribution and project support details.",
+      "url": "#"
+    }
+  ],
+  "funders": [
+    {
+      "name": "Funder Placeholder",
+      "summary": "Add funding years and initiative focus.",
+      "url": "#"
+    }
+  ]
+}

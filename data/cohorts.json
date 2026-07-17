@@ -1,0 +1,28 @@
+{
+  "cohorts": [
+    {
+      "year": "Year 1",
+      "theme": "Foundations",
+      "summary": "Add year summary, contributor count, and flagship outcomes.",
+      "page": "cohorts/year-1.html"
+    },
+    {
+      "year": "Year 2",
+      "theme": "Expansion",
+      "summary": "Add year summary, contributor count, and flagship outcomes.",
+      "page": "cohorts/year-2.html"
+    },
+    {
+      "year": "Year 3",
+      "theme": "Collaboration",
+      "summary": "Add year summary, contributor count, and flagship outcomes.",
+      "page": "cohorts/year-3.html"
+    },
+    {
+      "year": "Year 4",
+      "theme": "Impact",
+      "summary": "Add year summary, contributor count, and flagship outcomes.",
+      "page": "cohorts/year-4.html"
+    }
+  ]
+}

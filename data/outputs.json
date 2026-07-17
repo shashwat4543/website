@@ -1,0 +1,42 @@
+{
+  "schema_notes": {
+    "required_fields": ["title", "year", "type", "topic", "summary", "link"],
+    "allowed_years": ["Year 1", "Year 2", "Year 3", "Year 4"],
+    "allowed_types": ["Presentation", "Podcast", "Research Paper", "Article/Blog"],
+    "validation": "Every output should include descriptive summary text and an accessible title."
+  },
+  "outputs": [
+    {
+      "title": "Sample AI Ethics Presentation",
+      "year": "Year 4",
+      "type": "Presentation",
+      "topic": "Ethics",
+      "summary": "Replace with final deck details and speaker names.",
+      "link": "#"
+    },
+    {
+      "title": "Community Voices Podcast Episode 1",
+      "year": "Year 3",
+      "type": "Podcast",
+      "topic": "Community",
+      "summary": "Replace with episode description and platform link.",
+      "link": "#"
+    },
+    {
+      "title": "Healthcare Data Research Abstract",
+      "year": "Year 2",
+      "type": "Research Paper",
+      "topic": "Health",
+      "summary": "Replace with citation and publication venue.",
+      "link": "#"
+    },
+    {
+      "title": "Contributor Reflection Blog: Summer Lessons",
+      "year": "Year 1",
+      "type": "Article/Blog",
+      "topic": "Reflection",
+      "summary": "Replace with article summary and published URL.",
+      "link": "#"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name: Feature request
+description: Propose a new feature for the Contributor Catalyst program site.
+title: "[Feature] "
+labels: ["frontend", "design"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or opportunity
+      placeholder: What user/program need does this address?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      placeholder: Describe the feature and where it should live.
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      placeholder: |
+        - [ ] ...
+        - [ ] ...
+    validations:
+      required: true
+  - type: textarea
+    id: assets
+    attributes:
+      label: Needed assets/content
+      description: Note logos, bios, photos, or links needed.
